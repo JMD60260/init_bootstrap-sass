@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../bootstrap_lib/Bootstrap_loader.scss","../bootstrap_lib/Bootstrap_over.scss","../bootstrap_lib/Local_style.scss"],"names":[],"mappings":"AAAA;AAAA;AAAA;AA0CA;AAAA;AAAA;AAAA;AC1CA;AAAA;AAAA;ADiDA;AAAA;AAAA;AEjDA;AAAA;AAAA","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../bootstrap/Bootstrap_loader.scss","../bootstrap/Bootstrap_over.scss"],"names":[],"mappings":"AAAA;ACAA","file":"style.css"}

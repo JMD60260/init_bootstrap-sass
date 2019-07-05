@@ -1,6 +1,8 @@
-/*--------------------------------------------------
-    COMMENT/UNCOMMENT TO LOAD BOOTSTRAP PACKAGES
----------------------------------------------------*/
+/*!---- from Bootstrap_loader.scss ----*/
+
+//--------------------------------------------------
+//  COMMENT/UNCOMMENT TO LOAD BOOTSTRAP PACKAGES
+//--------------------------------------------------
 
 // @import "functions";
 // @import "variables";
@@ -40,15 +42,15 @@
 // @import "utilities";
 // @import "print";
 
-/*-------------------------------------------------
-    REFER TO Bootstrap_over.scss TO OVERWRITE
-    BOOTSTRAP VARIABLES
---------------------------------------------------*/
+//-------------------------------------------------
+//  REFER TO Bootstrap_over.scss TO OVERWRITE
+//  BOOTSTRAP VARIABLES
+//-------------------------------------------------
 
 @import "Bootstrap_over";
 
-/*-------------------------------------------------
-    REFER TO Local_style.scss TO ADD EXTRA STYLE
----------------------------------------------------*/
+//-------------------------------------------------
+//  REFER TO Local_style.scss TO ADD EXTRA STYLE
+//---------------------------------------------------
 
 @import "Local_style.scss";
